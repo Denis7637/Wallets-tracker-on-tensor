@@ -1,0 +1,24 @@
+{
+    "config": {
+        "telegram_token": "TG_TOKEN_BOT",
+        "delay": 6000,
+        "error_delay": 6000
+    },
+    "wallets": [
+        {
+            "wallet": "159ruADzMMAnC6im5hZyqfryJkuwnGqRACWbtkh8n6r",
+            "telegramID": "-chatId_chatIdInTem",
+            "wallet_name": "name"
+        },
+        {
+            "wallet": "walletAdress",
+            "telegramID": "-chatId",
+            "wallet_name": "name"
+        },
+        {
+            "wallet": "walletAdress",
+            "telegramID": "-chatId",
+            "wallet_name": "name"
+        }
+    ]
+}
